@@ -23,4 +23,3 @@ under Time-of-Use (ToU) tariffs.
 ## Author
 Muhammad Umer Mujahid  
 Electrical Engineer | IEEE Author | Energy Systems Researcher  
-[LinkedIn] | [ResearchGate] | [ORCID]
