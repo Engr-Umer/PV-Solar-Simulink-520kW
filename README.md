@@ -5,7 +5,7 @@ This project models a photovoltaic (PV) solar system using MATLAB Simulink,
 analyzing system behavior under variable irradiance and dynamic load conditions.
 
 <p align="center">
-  <img src="images/Image.png" alt="PV Solar System Simulink Model" width="700"/>
+  <img src="Image.png" alt="PV Solar System Simulink Model" width="700"/>
 </p>
 
 ## Research Context
