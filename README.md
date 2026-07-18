@@ -1,4 +1,3 @@
-# pv-solar-simulink-520kW
 # PV Solar System Modeling in MATLAB Simulink
 
 ## Overview
