@@ -8,6 +8,14 @@
   <b>MATLAB / Simulink · Simscape Electrical · Photovoltaic Systems · MPPT · Power Electronics · Battery EMS · Smart Energy Management</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-R2023a%2B-orange?style=for-the-badge&logo=mathworks" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Simulink-Simscape%20Electrical-blue?style=for-the-badge" alt="Simulink">
+  <img src="https://img.shields.io/badge/PV%20Plant-520.3%20kW-green?style=for-the-badge" alt="PV Plant">
+  <img src="https://img.shields.io/badge/MPPT-P%26O-yellow?style=for-the-badge" alt="MPPT">
+  <img src="https://img.shields.io/badge/EMS-Battery%20%2B%20ToU-purple?style=for-the-badge" alt="EMS">
+</p>
+
 ---
 
 ## 📌 Project Overview
@@ -31,7 +39,15 @@ The project follows a **verification-first engineering methodology**, where majo
 
 ---
 
-## 🎯 Key Objectives
+## 🖼️ Project Overview
+
+<p align="center">
+  <img src="00_cover_icon.png" alt="Project Overview" width="800">
+</p>
+
+---
+
+# 🎯 Key Objectives
 
 - Design a realistic **520 kW-class PV plant** using manufacturer datasheet parameters.
 - Model three independent PV-to-AC inverter chains connected to a common AC bus.
@@ -52,6 +68,12 @@ The project follows a **verification-first engineering methodology**, where majo
 # ⚡ System Architecture
 
 The overall PV power-conversion path is:
+
+<p align="center">
+  <img src="08_plant_architecture.png" alt="PV Plant Architecture" width="900">
+</p>
+
+The simplified signal path is:
 
 ```text
 Solar Irradiance
